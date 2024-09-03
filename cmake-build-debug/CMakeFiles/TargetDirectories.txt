@@ -1,0 +1,3 @@
+/media/pasindu/New Volume/Academic/Semester 3/CS2043 - Operating Systems/PintOs/os/pintos/cmake-build-debug/CMakeFiles/pintos.dir
+/media/pasindu/New Volume/Academic/Semester 3/CS2043 - Operating Systems/PintOs/os/pintos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/pasindu/New Volume/Academic/Semester 3/CS2043 - Operating Systems/PintOs/os/pintos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
